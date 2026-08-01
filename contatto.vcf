@@ -2,9 +2,10 @@ BEGIN:VCARD
 VERSION:3.0
 REV:2026-08-01T00:00:00Z
 N:Marciante;Stefano;;Sig.;Stefano Marciante
+FN:Sig. Stefano Marciante
 BDAY:1974-07-29
 ORG:IPSSAT Rocco Chinnici / Scardaci Gran Gala
-TITLE:Extecutive Chef & Software Engineer
+TITLE:Executive Chef & Software Engineer
 NOTE:Docente di cucina presso IPSSAT R. Chinnici e Executive Chef presso 
  Scardaci Catering, con una forte vocazione per l'ingegneria del software.
   Dedito all'eccellenza, sia nella formazione culinaria che nello sviluppo
@@ -12,6 +13,8 @@ NOTE:Docente di cucina presso IPSSAT R. Chinnici e Executive Chef presso
 TEL;CELL:+393408343959
 EMAIL;INTERNET;WORK:prof.marciante@ipssatchinnicinicolosi.edu.it
 EMAIL;INTERNET;HOME:stefano.marciante.sm@gmail.com
-URL;OTHER:https://www.facebook.com/stefano.marciante
-URL;OTHER:https://www.instagram.com/stefano.marciante.sm
+item1.URL:https://www.facebook.com/stefano.marciante
+item1.X-ABLabel:Facebook
+item2.URL:https://www.instagram.com/stefano.marciante.sm
+item2.X-ABLabel:Instagram
 END:VCARD
